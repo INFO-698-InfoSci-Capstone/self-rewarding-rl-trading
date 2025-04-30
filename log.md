@@ -108,3 +108,35 @@ Successfully constructed RL Agent, trained it, recorded agent actions and visual
 Fine-tuning the RL agent to make better predictions in-turn generating more ROI.
 
 ---
+
+🗓 Date:
+Week 7 – April 21, 2025
+
+⏱ Number of hours:
+~25-30 hours
+(Researching dashboarding tools, deciding between static vs dynamic visualization, planning dashboard structure)
+
+🌹 Rose – Highlight of the week:
+Explored multiple visualization frameworks and narrowed down the options to Streamlit and power BI for a dynamic dashboard or Plotly for a static but interactive dashboard. Outlined key components to display such as price trends, RL agent actions (Buy/Sell/Hold), and cumulative returns.
+
+🌱 Bud – Looking forward to:
+Prototyping the dashboard using Streamlit and PowerBI to test real-time interactivity and user customization features. Planning to integrate reward predictions and RL action visualizations side by side for a clearer decision flow.
+
+🥀 Thorn – Challenges:
+Deciding between static vs dynamic dashboards considering factors like deployment complexity, interactivity, and data refresh frequency. Also evaluating the learning curve and customization limitations of each tool.
+
+Date:
+Week 8 – April 28, 2025
+
+⏱ Number of hours:
+~30-35 hours
+(Apart from prototyping a deashboard and researching about it, now designing the research poster for iShowcase, summarizing the methodology, results, and visuals)
+
+🌹 Rose – Highlight of the week:
+Successfully drafted the iShowcase poster summarizing the full pipeline — from data collection and feature engineering to Reward Network and RL Agent performance. Integrated key visualizations such as agent action plots, ROI metrics, and dashboard snapshots for a clear visual impact.
+
+🌱 Bud – Looking forward to:
+Finalizing the poster with mentor feedback, rehearsing the presentation script, and preparing for the iShowcase day. Also considering printing a high-quality version and creating a digital backup.
+
+🥀 Thorn – Challenges:
+Condensing complex technical content into an engaging and understandable format while maintaining visual clarity and research depth was challenging. Balancing technical accuracy with visual simplicity required multiple iterations.
