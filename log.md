@@ -125,6 +125,8 @@ Prototyping the dashboard using Streamlit and PowerBI to test real-time interact
 🥀 Thorn – Challenges:
 Deciding between static vs dynamic dashboards considering factors like deployment complexity, interactivity, and data refresh frequency. Also evaluating the learning curve and customization limitations of each tool.
 
+---
+
 Date:
 Week 8 – April 28, 2025
 
