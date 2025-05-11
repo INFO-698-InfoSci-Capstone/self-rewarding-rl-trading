@@ -142,3 +142,31 @@ Finalizing the poster with mentor feedback, rehearsing the presentation script, 
 
 🥀 Thorn – Challenges:
 Condensing complex technical content into an engaging and understandable format while maintaining visual clarity and research depth was challenging. Balancing technical accuracy with visual simplicity required multiple iterations.
+
+---
+
+🗓 Date: Week 9 – May 2, 2025
+
+⏱ Number of hours: ~25-30 hours (Finalizing the research poster, incorporating feedback, preparing for the iShowcase event)
+
+🌹 Rose – Highlight of the week: Successfully finalized the iShowcase poster incorporating mentor feedback, ensuring clarity, accuracy, and visual appeal. Printed 
+    a high-quality version and rehearsed the presentation multiple times.
+
+🌱 Bud – Looking forward to: Presenting the finalized poster at the iShowcase event and interacting with attendees to discuss the research findings.
+
+🥀 Thorn – Challenges: Ensuring the final poster effectively balanced technical depth and simplicity, making it accessible to a diverse audience without losing 
+    essential details.
+
+---
+
+🗓 Date: Week 10 – May 9, 2025
+
+⏱ Number of hours: ~30-35 hours (iShowcase event presentation, finalizing Power BI dashboard, GitHub repository updates)
+
+🌹 Rose – Highlight of the week: Successfully presented the poster at the iShowcase event on May 7th, receiving positive feedback and constructive questions from 
+   attendees. Also completed and finalized the Power BI dashboard, effectively visualizing agent actions, portfolio values, and key performance metrics.
+
+🌱 Bud – Looking forward to: Documenting final results clearly in the GitHub repository, preparing comprehensive project documentation, and outlining future 
+   research directions based on event feedback.
+
+🥀 Thorn – Challenges: Managing time efficiently to simultaneously complete the dashboard and ensure accurate and comprehensive documentation for GitHub updates.
